@@ -1,5 +1,5 @@
 # Affine-Gap-Penalty-Alignment
-Griffen Mustion (gmustion35@gmail.com)
+Griffen Mustion (gmustion35@gmail.com) \n
 Final Project for CS 466 - Intro to Bioinformatics at UIUC
 
 # BLOSUM62 & the Triangle Inequality
